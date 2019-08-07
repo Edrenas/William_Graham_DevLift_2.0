@@ -1,6 +1,0 @@
-D:\DevLift_Will_Graham\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\DevLift_Will_Graham\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\DevLift_Will_Graham\Demo\Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\DevLift_Will_Graham\Demo\Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\DevLift_Will_Graham\Demo\Demo\bin\roslyn\System.IO.Compression.dll
-D:\DevLift_Will_Graham\Demo\Demo\bin\roslyn\VBCSCompiler.exe
